@@ -77,9 +77,9 @@ Based on our analysis of the IBM HR Analytics data, key findings include:
 - (List practical suggestions or strategies derived from your ana lysis.)  Recommendations by Sandrine Mujinga:
 ### Recommendations:
 - **Reduce Overtime:** Implement workload management and flexible scheduling.
-- **Career Development:** Provide clear career paths(including promotion plan) and mentorship & leadership trainings opportunities.
+- **Career Development:** Provide clear career paths(including promotion plan) and mentorship & leadership training opportunities.
 - **Employee Engagement:** Enhance work culture through regular feedback and support programs(offer personalized retention plans based on job role,experience and manager relationships).
-- **Review Travel Policies:** Consider adjustments to reduce travel stress.Offer remote work flexibility where possible.(I mprove Work-Life Balance)
+- **Review Travel Policies:** Consider adjustments to reduce travel stress.Offer remote work flexibility where possible.(Improve Work-Life Balance)
 
 
 
